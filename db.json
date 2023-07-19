@@ -1,19 +1,27 @@
 {
   "products": [
     {
-      "name": "Essential Backpack",
-      "price": 259.99,
-      "quantity": 5,
-      "color": "orange",
-      "id": "0124081a-4daa-425a-bb40-d5c016893fe3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Risus quis varius quam quisque. Quis risus sed vulputate odio. Ultrices eros in cursus turpis. Est velit egestas dui id ornare arcu. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Dictumst quisque sagittis purus sit amet volutpat. Sed libero enim sed faucibus turpis in eu. Dui vivamus arcu felis bibendum ut tristique et egestas."
-    },
-    {
-      "name": "TUKI TAKI TUKI",
+      "name": "Tuki",
       "price": 55.99,
       "quantity": 25,
       "description": "These are great",
       "id": "99867f07-363d-4a64-b456-40a15ea3ee00"
+    },
+    {
+      "name": "Tutanga",
+      "price": "500",
+      "quantity": "20",
+      "description": "TUKi TANGA",
+      "color": "Pink",
+      "id": "37345c17-fbcb-4761-b0af-c79170304e3a"
+    },
+    {
+      "name": "Axiom",
+      "price": "200",
+      "quantity": "290",
+      "description": "SARPADO\n",
+      "color": "Pink",
+      "id": "1b41b5df-d0d7-4b59-9f09-27c886532971"
     }
   ]
 }

@@ -1,5 +1,5 @@
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
   display: flex;
   flex-direction: column;
   color: #223640;
@@ -85,7 +85,7 @@ h1 {
 
 #results > ul > li {
   display: flex;
-  width: 50%;
+  width: 90%;
   justify-content: space-between;
   align-items: center;
 }
